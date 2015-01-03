@@ -1,0 +1,474 @@
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_activity_detail`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_address`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_admin`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_admin_log`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_adv`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_adv_click`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_adv_position`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_album_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_album_pic`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_area`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_article`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_article_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_attribute`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_attribute_value`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_brand`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cart`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_chat_log`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_chat_msg`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_affix`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_explog`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_expmember`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_exptheme`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_fs`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_inform`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_like`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_mapply`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_member`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_ml`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_mldefault`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_mlref`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_recycle`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_thclass`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_theme`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_thg`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_thpoll`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_thpolloption`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_thpollvoter`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_circle_threply`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_article`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_article_attitude`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_article_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_comment`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_comment_up`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_index_module`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_module`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_module_assembly`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_module_frame`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_navigation`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_picture`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_picture_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_picture_image`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_special`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_tag`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cms_tag_relation`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_complain`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_complain_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_complain_subject`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_complain_talk`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_consult`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_cron`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_daddress`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_document`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_evaluate_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_evaluate_store`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_express`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_favorites`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_flowstat_1`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_flowstat_2`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_flowstat_3`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_flowstat_4`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_flowstat_5`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_gadmin`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods_attr_index`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods_class_staple`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods_class_tag`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods_common`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_goods_images`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_groupbuy`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_groupbuy_area`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_groupbuy_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_groupbuy_price_range`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_groupbuy_quota`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_inform`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_inform_subject`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_inform_subject_type`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_invoice`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_lock`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_mail_msg_temlates`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_member`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_message`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_adv`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_comment`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_goods_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_goods_relation`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_like`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_member_info`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_personal`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_personal_class`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_micro_store`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_navigation`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_offpay_area`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order_bill`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order_common`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order_log`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order_pay`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_order_statis`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_booth_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_booth_quota`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_bundling`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_bundling_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_bundling_quota`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_mansong`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_mansong_quota`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_mansong_rule`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_xianshi`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_xianshi_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_p_xianshi_quota`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_payment`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_pd_cash`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_pd_log`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_pd_recharge`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_points_cart`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_points_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_points_log`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_points_order`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_points_orderaddress`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_points_ordergoods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_rec_position`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_refund_return`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_salenum`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_seller`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_seller_group`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_seller_log`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_seo`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_setting`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_albumclass`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_albumpic`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_binding`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_comment`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_friend`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_goods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_membertag`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_mtagmember`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_setting`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_sharegoods`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_sharestore`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_tracelog`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_sns_visitor`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_spec`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_spec_value`
+[2014-06-17 00:23:32] /shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Can't create/write to file 'C:\WINDOWS\TEMP\#sql_678_0.MYI' (Errcode: 13)
+SHOW COLUMNS FROM `shopnc_stat_member`
