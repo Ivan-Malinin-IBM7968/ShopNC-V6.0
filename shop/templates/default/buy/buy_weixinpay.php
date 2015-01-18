@@ -21,7 +21,7 @@
   </div>
 </div>
 
-<script src="/shop/resource/js/qrcode.js"></script>
+<script src="/tjshop/shop/resource/js/qrcode.js"></script>
 	<script>
 		if(<?php echo $output['unifiedOrderResult']['code_url'] != NULL; ?>)
 		{

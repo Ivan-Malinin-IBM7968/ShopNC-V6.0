@@ -41,7 +41,7 @@ class wxpay{
 		//请求的URL
     //$reqUrl = "http://www.ddjqr.com/shop/api/payment/wxpay/native_dynamic_qrcode.php?body=$body&out_trade_no=$out_trade_no&total_fee=$total_fee";
 
-    $reqUrl = "http://www.ddjqr.com/shop/index.php?act=weixinpay&op=index&body=$body&out_trade_no=$out_trade_no&total_fee=$total_fee";
+    $reqUrl = "http://localhost/tjshop/shop/index.php?act=weixinpay&op=index&body=$body&out_trade_no=$out_trade_no&total_fee=$total_fee";
 		return $reqUrl;
 		
 	}
