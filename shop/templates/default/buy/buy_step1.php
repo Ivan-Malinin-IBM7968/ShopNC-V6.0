@@ -14,6 +14,10 @@
     <?php include template('buy/buy_amount');?>
     <input value="buy" type="hidden" name="act">
     <input value="buy_step2" type="hidden" name="op">
+
+    <!--商品名称测试-->
+    <input value="<?php echo $cart_list[0]['goods_name']; ?>" type="hidden" name="goods_name">
+
     <!-- 来源于购物车标志 -->
     <input value="<?php echo $output['ifcart'];?>" type="hidden" name="ifcart">
 

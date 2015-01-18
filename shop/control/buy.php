@@ -80,7 +80,10 @@ class buyControl extends BaseBuyControl {
         }
 
         //转向到商城支付页面
-        $pay_url = 'index.php?act=buy&op=pay&pay_sn='.$result['pay_sn'];
+        //print_r($_POST);
+        //exit ;
+
+        $pay_url = 'index.php?act=buy&op=pay&pay_sn='.$result['pay_sn'].'&goods_name='.$_POST['goods_name'];
         redirect($pay_url);
     }
 
@@ -105,7 +108,13 @@ class buyControl extends BaseBuyControl {
         $condition = array();
         $condition['pay_sn'] = $pay_sn;
         $condition['order_state'] = array('in',array(ORDER_STATE_NEW,ORDER_STATE_PAY));
-        $order_list = $model_order->getOrderList($condition,'','order_id,order_state,payment_code,order_amount,pd_amount,order_sn');
+        //$order_list = $model_order->getOrderList($condition,'','order_id,order_state,payment_code,order_amount,pd_amount,order_sn');
+          //追加获取商品信息
+        $order_list = $model_order->getOrderList($condition,'','order_id,order_state,payment_code,order_amount,pd_amount,order_sn','','',array('order_goods'));
+
+        //print_r($order_list);
+        //exit ;
+
         if (empty($order_list)) {
             showMessage('未找到需要支付的订单','index.php?act=member_order','html','error');
         }
@@ -142,6 +151,11 @@ class buyControl extends BaseBuyControl {
                 }
             }
         }
+
+        
+        print_r($order_list);
+
+
         Tpl::output('order_list',$order_list);
 
         //如果线上线下支付金额都为0，转到支付成功页

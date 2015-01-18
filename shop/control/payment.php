@@ -27,9 +27,13 @@ class paymentControl extends BaseHomeControl{
 	 */
 	private function _product_buy(){
 	    $pay_sn = $_POST['pay_sn'];
-		$payment_code = $_POST['payment_code'];
-        $url = 'index.php?act=member_order';
-
+		  $payment_code = $_POST['payment_code'];
+      $url = 'index.php?act=member_order';
+      //商品名称
+      $goods_name = $_POST['goods_name'];
+       //商品订单号
+      $order_sn = $_POST['order_sn'];
+      
         $valid = !preg_match('/^\d{18}$/',$pay_sn) || !preg_match('/^[a-z]{1,20}$/',$payment_code) || in_array($payment_code,array('offline','predeposit'));
         if($valid){
             showMessage(Language::get('para_error'),'','html','error');
@@ -38,6 +42,14 @@ class paymentControl extends BaseHomeControl{
         $model_payment = Model('payment');
         $result = $model_payment->productBuy($pay_sn, $payment_code, $_SESSION['member_id']);
 
+
+       
+        //向订单中追加商品信息
+        $result['order_pay_info']['goods_name'] = $goods_name ;
+        $result['order_pay_info']['order_sn'] = $order_sn ;
+
+        // print_r($result);  
+        
         if(!empty($result['error'])) {
             showMessage($result['error'], $url, 'html', 'error');
         }
@@ -97,6 +109,10 @@ class paymentControl extends BaseHomeControl{
     	if($payment_info['payment_code'] == 'chinabank') {
     		$payment_api->submit();
     	} else {
+
+        //print_r($order_info);
+        //exit ;
+
     		@header("Location: ".$payment_api->get_payurl());
     	}
     	exit;

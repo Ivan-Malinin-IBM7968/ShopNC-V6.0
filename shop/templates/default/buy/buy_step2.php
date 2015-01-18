@@ -9,6 +9,10 @@
     <input type="hidden" name="pay_sn" value="<?php echo $output['pay_info']['pay_sn'];?>">
     <input type="hidden" id="payment_code" name="payment_code" value="">
     <input type="hidden" name="order_type" value="product_buy">
+      <!--商品名称-->
+     <input type="hidden" name="goods_name" value="<? echo $_GET['goods_name'];?>">
+      <!--商品名称-->
+
     <div class="ncc-receipt-info">
       <div class="ncc-receipt-info-title">
         <h3><?php echo $output['order_remind'];?>
@@ -41,6 +45,9 @@
             <td>￥<?php echo $order['order_amount'];?></td>
             <td>快递</td>
           </tr>
+          <!--订单号-->
+          <input type="hidden" name="order_sn" value="<?php echo $order['order_sn']; ?>">
+          <!--订单号-->
           <?php  }?>
         </tbody>
       </table>
