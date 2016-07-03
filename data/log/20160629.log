@@ -1,0 +1,51 @@
+[2016-06-29 22:56:52] /tjshop/shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_groupbuy' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1467212211' ) AND ( end_time > '1467212211' ) ORDER BY recommended desc LIMIT 1000  
+[2016-06-29 22:56:52] /tjshop/shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1467212211' ) AND ( end_time > '1467212211' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-06-29 22:56:52] /tjshop/shop/index.php ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_web' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-06-29 22:56:59] /tjshop/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_groupbuy' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1467212218' ) AND ( end_time > '1467212218' ) ORDER BY recommended desc LIMIT 1000  
+[2016-06-29 22:56:59] /tjshop/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1467212218' ) AND ( end_time > '1467212218' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-06-29 22:56:59] /tjshop/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_web' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2016-06-29 22:57:08] /tjshop/microshop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_micro_adv' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_micro_adv` WHERE ( adv_type = 'index' ) ORDER BY adv_sort asc LIMIT 1000  
+[2016-06-29 22:57:08] /tjshop/microshop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_member' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_member` as `member`   limit 1
+[2016-06-29 22:57:08] /tjshop/microshop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_micro_member_info' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_micro_member_info` AS `micro_member_info` LEFT JOIN `shopnc`.`shopnc_member` AS `member` ON micro_member_info.member_id = member.member_id ORDER BY personal_count desc LIMIT 3  
+[2016-06-29 22:57:08] /tjshop/microshop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_micro_personal' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_micro_personal` AS `micro_personal` LEFT JOIN `shopnc`.`shopnc_member` AS `member` ON micro_personal.commend_member_id = member.member_id WHERE ( microshop_commend = '1' ) LIMIT 8  
+[2016-06-29 22:57:08] /tjshop/microshop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_micro_goods_class' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_micro_goods_class` ORDER BY class_sort asc 
+[2016-06-29 22:57:08] /tjshop/microshop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_micro_store' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_micro_store` WHERE ( microshop_commend = '1' ) ORDER BY like_count desc,click_count desc LIMIT 15  
+[2016-06-29 22:57:12] /tjshop/shop/index.php?act=show_groupbuy&op=index ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_groupbuy' doesn't exist
+SELECT COUNT(*) AS nc_count FROM `shopnc`.`shopnc_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1467212231' ) AND ( end_time > '1467212231' ) LIMIT 1  
+[2016-06-29 22:57:12] /tjshop/shop/index.php?act=show_groupbuy&op=index ( act=show_groupbuy&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_groupbuy' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1467212231' ) AND ( end_time > '1467212231' ) LIMIT 0,20  
+[2016-06-29 22:57:16] /tjshop/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_groupbuy' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1467212235' ) AND ( end_time > '1467212235' ) ORDER BY recommended desc LIMIT 1000  
+[2016-06-29 22:57:16] /tjshop/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_p_xianshi_goods' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1467212235' ) AND ( end_time > '1467212235' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2016-06-29 22:57:16] /tjshop/shop/ ( act=index&op=index ) 
+ERR: Db Error: Table 'shopnc.shopnc_web' doesn't exist
+SELECT * FROM `shopnc`.`shopnc_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  

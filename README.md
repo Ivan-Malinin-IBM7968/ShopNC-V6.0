@@ -6,5 +6,5 @@ tjshop
 1.官方店铺默认账号 
 shopnc_seller   shopnc  
 
-2 .测试用户账号
-test  123456
+2 .后台账号：
+admin  123456 
